@@ -11,14 +11,6 @@ An AI-powered web application that generates SEO-optimized English product title
 - **Batch Processing**: Handle multiple products at once
 - **Easy Export**: One-click copy functionality for quick integration
 
-## Screenshots
-
-![Title Generator Interface](https://via.placeholder.com/800x400.png?text=Title+Generator+Interface)
-*Generate SEO-optimized product titles with quality scoring*
-
-![Description Generator Interface](https://via.placeholder.com/800x400.png?text=Description+Generator+Interface)
-*Create compelling product descriptions with key highlights*
-
 ## Technology Stack
 
 - **Backend**: Python 3.11, Flask
