@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Built for the Yami marketplace ecosystem
+- Built for e-commerce marketplace ecosystems
 - Powered by OpenAI's GPT-4
 - Bootstrap for responsive UI components
 
