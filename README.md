@@ -2,7 +2,7 @@
 
 An AI-powered web application that generates SEO-optimized English product titles and descriptions for Asian products targeting the US market. Built with Flask and OpenAI's GPT-4.
 
-## 🚀 Features
+## Features
 
 - **AI-Powered Title Generation**: Automatically translates and optimizes product titles for English-speaking audiences
 - **Smart Description Creation**: Generates compelling product descriptions with key selling points
@@ -11,7 +11,7 @@ An AI-powered web application that generates SEO-optimized English product title
 - **Batch Processing**: Handle multiple products at once
 - **Easy Export**: One-click copy functionality for quick integration
 
-## 📸 Screenshots
+## Screenshots
 
 ![Title Generator Interface](https://via.placeholder.com/800x400.png?text=Title+Generator+Interface)
 *Generate SEO-optimized product titles with quality scoring*
@@ -19,20 +19,20 @@ An AI-powered web application that generates SEO-optimized English product title
 ![Description Generator Interface](https://via.placeholder.com/800x400.png?text=Description+Generator+Interface)
 *Create compelling product descriptions with key highlights*
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Backend**: Python 3.11, Flask
 - **AI**: OpenAI GPT-4 API
 - **Frontend**: HTML5, Bootstrap 4, jQuery
 - **Deployment**: Heroku-ready with Gunicorn
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.11+
 - OpenAI API key
 - pip (Python package manager)
 
-## 🔧 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -57,7 +57,7 @@ An AI-powered web application that generates SEO-optimized English product title
    # Edit .env and add your OpenAI API key
    ```
 
-## 🚀 Usage
+## Usage
 
 1. **Start the application**
    ```bash
@@ -71,7 +71,7 @@ An AI-powered web application that generates SEO-optimized English product title
    - **Title Generation**: Enter product names in the left panel, click "Generate Titles"
    - **Description Generation**: Switch to the Description tab, enter product details, click "Generate Descriptions"
 
-## 📝 API Configuration
+## API Configuration
 
 The application requires an OpenAI API key. Set it as an environment variable:
 
@@ -84,14 +84,14 @@ Or add it to your `.env` file:
 OPENAI_API_KEY=your-api-key-here
 ```
 
-## 🎯 Use Cases
+## Use Cases
 
 - **E-commerce Sellers**: Quickly create English listings for Asian products
 - **Marketing Teams**: Generate consistent, SEO-friendly product content
 - **Content Creators**: Streamline product description workflows
 - **International Businesses**: Bridge language gaps in product marketing
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -101,20 +101,20 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built for the Yami marketplace ecosystem
 - Powered by OpenAI's GPT-4
 - Bootstrap for responsive UI components
 
-## 📞 Contact
+## Contact
 
 Project Link: [https://github.com/kenku0/ai-marketingcontent-generator](https://github.com/kenku0/ai-marketingcontent-generator)
 
 ---
 
-Made with ❤️ for better product localization
+Made with love for better product localization
